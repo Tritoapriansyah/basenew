@@ -27,7 +27,7 @@ require('./Manik.js')
 nocache('../Manik.js', module => console.log(color('[WATCH]', 'yellow'), color(`'${module}'`, 'cyan'), 'File is updated!'))
 function title() {
 console.clear()
-console.log(chalk.bold.green(figlet.textSync('XionsBot-MD', {
+console.log(chalk.bold.green(figlet.textSync('sesi', {
 font: 'Standard',
 horizontalLayout: 'default',
 vertilLayout: 'default',
